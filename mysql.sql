@@ -1,0 +1,1 @@
+DELETE from tags where 1=1;
